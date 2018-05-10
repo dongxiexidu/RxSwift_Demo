@@ -1,0 +1,9 @@
+github "alibaba/HandyJSON" ~> 1.8.0
+github "Moya/Moya"
+github "onevcat/Kingfisher"
+github "ReactiveX/RxSwift" ~> 3.0
+github "RxSwiftCommunity/RxDataSources" ~> 1.0
+github "devxoul/Then"
+
+github "Orderella/PopupDialog" ~> 0.5
+
